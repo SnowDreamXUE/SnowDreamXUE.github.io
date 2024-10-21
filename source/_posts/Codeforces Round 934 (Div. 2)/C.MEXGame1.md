@@ -1,8 +1,10 @@
 ---
 title: Codeforces Round 934 (Div. 2) C. MEX Game 1
 date: 2024-10-21 10:32
-tags: 
+categories:
   - Codeforces
+tags: 
+  - Codeforces Round 934 (Div. 2)
 ---
 [Codeforces Round 934 (Div. 2)](https://codeforces.com/contest/1944)
 
