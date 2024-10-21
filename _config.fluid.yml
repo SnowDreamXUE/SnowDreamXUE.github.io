@@ -1,7 +1,7 @@
 # ==================================== 全局设置 ====================================
 
 ## 顶部预览大图（不知道为什么，设置这个属性貌似没起到作用）
-banner_img: /img/default.png
+banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
 
 ## Hexo的网页图标
 favicon: https://www.helloimg.com/i/2024/10/21/6715a68c47bee.png
@@ -109,6 +109,7 @@ font:
 
 # ==================================== 首页设置 ====================================
 index:
+  banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
   ## 打字机设置
   slogan:
     ### 是否启用打字机
