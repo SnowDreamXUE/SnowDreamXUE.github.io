@@ -10,7 +10,7 @@ tags:
 
 [D. Binary Cut](https://codeforces.com/contest/1971/problem/D)
 
-遇到**'10'**分割一次,**'01'**分割**n-1(n为'01'出现次数)**次
+遇到 **'10'** 分割一次,**'01'** 分割 **n-1(n为'01'出现次数)** 次
 
 ```cpp
 // By SnowDream
