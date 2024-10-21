@@ -1,7 +1,7 @@
 # ==================================== 全局设置 ====================================
 
 ## 顶部预览大图（不知道为什么，设置这个属性貌似没起到作用）
-banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
+banner_img: /img/default.png
 
 ## Hexo的网页图标
 favicon: https://www.helloimg.com/i/2024/10/21/6715a68c47bee.png
@@ -78,12 +78,12 @@ links:
 tag:
   ### 标签页的顶部预览图
   banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
-  
+
 ## 分类页设置
 category:
   ### 分类页的顶部预览图
   banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
-  
+
 ## 归档页设置
 archive:
   ### 归档页的顶部预览图
@@ -97,16 +97,16 @@ lazyload:
   onlypost: false
   ### 触发加载的偏移倍数，基数是视窗高度（即提前 N 屏高度触发加载），可根据部署环境的请求速度调节
   offset_factor: 2
- 
+
 ## 全局字体设置
-font:  
+font:
   ### 全局字号
   font_size: 16px
   ### 全局字体族
   font_family: "Microsoft YaHei"
   ### 代码字号
   code_font_size: 85%
-  
+
 # ==================================== 首页设置 ====================================
 index:
   ## 打字机设置
@@ -122,7 +122,7 @@ index:
     date: true
     category: true
     tag: true
-    
+
 # ==================================== 文章页设置 ====================================
 post:
   ## 统一给文章设置一个默认封面
@@ -145,7 +145,7 @@ post:
     enable: true
     type: valine
 
-      
+
 # ==================================== 代码块设置 ====================================
 code:
   ## 是否开启复制代码的按钮
