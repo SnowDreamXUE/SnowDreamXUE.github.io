@@ -66,6 +66,12 @@ links:
       avatar: 'https://www.helloimg.com/i/2024/10/21/6715a68bea8b2.png'
     }
     - {
+        title: '小城寒风',
+        intro: '驻足现实，仰望星空，率性而活',
+        link: 'https://blog.atago.moe',
+        avatar: 'https://blog.atago.moe/wp-content/uploads/2023/08/头像atago512隐写.png'
+    }
+    - {
       title: 'Fluid Docs',
       intro: 'Fluid 主题使用指南',
       link: 'https://hexo.fluid-dev.com/docs/',
