@@ -5,4 +5,4 @@ layout: about
 
 <center>一只努力学习算法的菜喵</center>
 
-![](https://www.helloimg.com/i/2024/10/21/6715a69769b85.png)
+![](https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/cat.png)

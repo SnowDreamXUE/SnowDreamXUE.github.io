@@ -1,10 +1,10 @@
 # ==================================== 全局设置 ====================================
 
 ## 顶部预览大图（不知道为什么，设置这个属性貌似没起到作用）
-banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
+banner_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
 
 ## Hexo的网页图标
-favicon: https://www.helloimg.com/i/2024/10/21/6715a68c47bee.png
+favicon: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/icon.png
 
 ## 是否强制全局HTTPS
 force_https: true
@@ -42,9 +42,9 @@ navbar:
 ## 关于页设置
 about:
   ## 关于页的顶部预览图
-  banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
+  banner_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
   ### 你的头像
-  avatar: https://www.helloimg.com/i/2024/10/21/6715a68bea8b2.png
+  avatar: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/yuuki.jpg
   ### 你的昵称
   name: "SnowDream"
   ### 个人简介
@@ -57,13 +57,13 @@ about:
 ## 友情链接页设置
 links:
   ### 友情链接页的顶部预览图
-  banner_img: https://www.helloimg.com/i/2024/10/21/6715a6910011f.png
+  banner_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
   items:
     - {
       title: 'SnowDream',
       intro: 'SnowDream 的 CSDN',
       link: 'https://blog.csdn.net/SnowDreamXUE?type=blog',
-      avatar: 'https://www.helloimg.com/i/2024/10/21/6715a68bea8b2.png'
+      avatar: 'https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/yuuki.jpg'
     }
     - {
         title: '小城寒风',
@@ -78,22 +78,22 @@ links:
       avatar: '/img/favicon.png'
     }
   ### 默认头像
-  default_avatar: https://www.helloimg.com/i/2024/10/21/6715a68bea8b2.png
+  default_avatar: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/yuuki.jpg
 
 ## 标签页设置
 tag:
   ### 标签页的顶部预览图
-  banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
+  banner_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
 
 ## 分类页设置
 category:
   ### 分类页的顶部预览图
-  banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
+  banner_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
 
 ## 归档页设置
 archive:
   ### 归档页的顶部预览图
-  banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
+  banner_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
 
 ## 懒加载设置
 lazyload:
@@ -115,7 +115,7 @@ font:
 
 # ==================================== 首页设置 ====================================
 index:
-  banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
+  banner_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
   ## 打字机设置
   slogan:
     ### 是否启用打字机
@@ -133,8 +133,8 @@ index:
 # ==================================== 文章页设置 ====================================
 post:
   ## 统一给文章设置一个默认封面
-  default_index_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
-  banner_img: https://www.helloimg.com/i/2024/10/21/6715a690e526c.png
+  default_index_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
+  banner_img: https://cdn.jsdelivr.net/gh/SnowDreamXUE/cnblog_resources@main/images/background_2.png
   math:
     enable: true
     specific: false
