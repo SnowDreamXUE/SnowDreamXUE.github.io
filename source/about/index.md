@@ -5,4 +5,4 @@ layout: about
 
 <center>一只努力学习算法的菜喵</center>
 
-![cat.png](https://snow-pic.oss-cn-guangzhou.aliyuncs.com/pic/cat.png)
+![cat.png](https://objectstorageapi.ap-northeast-1.run.claw.cloud/x0p9nvoq-snow-pic/cat.png)
