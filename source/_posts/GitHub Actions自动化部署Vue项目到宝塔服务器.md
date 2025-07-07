@@ -1,6 +1,7 @@
 ---
 title: GitHub Actions自动化部署Vue项目到宝塔服务器
 index_img: /img/芙莉莲.jpg
+banner_img: /img/芙莉莲.jpg
 date: 2025-07-7 11:42:00
 tags: 
   - GitHub Actions
